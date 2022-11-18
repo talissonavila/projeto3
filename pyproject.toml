@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "projeto-retas"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Talisson Avila <talisson_avila@hotmail.com>"]
 readme = "README.md"
